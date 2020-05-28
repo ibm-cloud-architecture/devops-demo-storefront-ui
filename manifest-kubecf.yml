@@ -1,8 +1,8 @@
+---
 applications:
 - name: cf-storefront-ui
-  memory: 512M
-  instances: 1
-  random-route: true
-  buildpacks:
-    - nodejs_buildpack
----
+  memory: 512M
+  instances: 1
+  random-route: true
+  buildpacks:
+    - nodejs_buildpack
